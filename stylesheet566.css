@@ -1,0 +1,66 @@
+.wrapper{
+    width: auto;
+    height: 768px;
+    background-color: mediumslateblue;
+    margin: 0px;
+    
+
+}
+.headBanner{
+    width: 100%;
+    height: 220px;
+    background-color: #1a1a1a;
+    text-align: center;
+    text-shadow: springgreen;
+
+}
+.menu{
+    width: 100%;
+    height: 35px;
+    background-color: #502929;
+    display: inline-block;
+    text-align: right;
+}
+button{
+    background: orangered;
+    padding: auto;
+    
+}
+button:hover{
+    background-color: purple;
+}
+.flexBox{
+    display: flex;
+}
+.flexitem{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.leftColumn{
+    width: 20%;
+    height: 438px;
+    background-color: rgb(102, 47, 7);
+    
+    
+}
+
+.centreColumn{
+    width: 68%;
+    height: 438px;
+    background-color: goldenrod;
+
+    border: lightcyan;
+    border-style: dotted;    
+}
+.rightColumn{
+    width: 10%;
+    height: 438px;
+    background-color: crimson;
+   
+}
+
+.footer{
+    background-color: #445152;
+    width: 100%;
+    height: 75px;
+}
